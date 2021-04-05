@@ -15,6 +15,8 @@ RUN set -ex; \
         vim \
 	obs-studio \
 	vlc \
+	xdotool \
+	screen \
         bash \
         net-tools \
         novnc \
