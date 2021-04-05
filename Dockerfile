@@ -18,6 +18,7 @@ RUN set -ex; \
 	xdotool \
 	screen \
         bash \
+	ping \
         net-tools \
         novnc \
         xfce4 \
