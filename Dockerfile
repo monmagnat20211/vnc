@@ -16,6 +16,7 @@ RUN set -ex; \
 	obs-studio \
 	vlc \
 	xdotool \
+	rdesktop \
 	screen \
         bash \
         net-tools \
