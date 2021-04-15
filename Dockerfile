@@ -17,6 +17,7 @@ RUN set -ex; \
 	vlc \
 	xdotool \
 	terminator \
+	rdesktop \
 	screen \
         bash \
         net-tools \
